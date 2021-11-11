@@ -11,6 +11,7 @@ import imgArmoire from "../products/Armoires/imgArmoires/img5.jpg"
 import Products from './Products';
 import Chics from "../Pages/Chics"
 import EnVogue from "../Pages/EnVogue"
+import {Link} from 'react-router-dom'
 
 
 const Home = () => {
@@ -37,7 +38,7 @@ const Home = () => {
 						<div className="content">
 							<p>Electoménagers</p>
 							
-							<a href="#">Découvrir</a>
+							<Link to="#">Découvrir</Link>
 						</div>
 					</div>
 				</div>
@@ -49,7 +50,7 @@ const Home = () => {
 						<div className="content">
 							<p>Cuisines</p>
 							
-							<a href="#">Acheter</a>
+							<Link to="#">Acheter</Link>
 						</div>
 					</div>
 				</div>
@@ -61,7 +62,7 @@ const Home = () => {
 						<div className="content">
 							<p>Armoires</p>
 							
-							<a href="#">Découvrir</a>
+							<Link to="#">Découvrir</Link>
 						</div>
 					</div>
 				</div>

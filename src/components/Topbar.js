@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Topbar = () => {
   return (
@@ -25,11 +26,11 @@ const Topbar = () => {
             <div className='right-content'>
               <ul className='list-main'>
                 <li>
-                  <i className='ti-user'></i> <a href='#'>Mon Compte</a>
+                  <i className='ti-user'></i> <Link to='#'>Mon Compte</Link>
                 </li>
                 <li>
                   <i className='ti-power-off'></i>
-                  <a href='login.html#'>Se connecter</a>
+                  <Link to='login.html#'>Se connecter</Link>
                 </li>
               </ul>
             </div>

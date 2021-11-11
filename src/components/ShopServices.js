@@ -2,40 +2,40 @@ import React from 'react';
 
 const ShopServices = () => {
   return (
-    <section class='shop-services section home'>
-      <div class='container'>
-        <div class='row'>
-          <div class='col-lg-3 col-md-6 col-12'>
+    <section className='shop-services section home'>
+      <div className='container'>
+        <div className='row'>
+          <div className='col-lg-3 col-md-6 col-12'>
             {/* Start Single Service */}
-            <div class='single-service'>
-              <i class='ti-rocket'></i>
+            <div className='single-service'>
+              <i className='ti-rocket'></i>
               <h4>Livraison partout</h4>
               <p>au Sénégal</p>
             </div>
             {/* End Single Service */}
           </div>
-          <div class='col-lg-3 col-md-6 col-12'>
+          <div className='col-lg-3 col-md-6 col-12'>
             {/* Start Single Service */}
-            <div class='single-service'>
-              <i class='ti-reload'></i>
+            <div className='single-service'>
+              <i className='ti-reload'></i>
               <h4>Retour</h4>
               <p>sur 3 jours</p>
             </div>
             {/* End Single Service */}
           </div>
-          <div class='col-lg-3 col-md-6 col-12'>
+          <div className='col-lg-3 col-md-6 col-12'>
             {/* Start Single Service */}
-            <div class='single-service'>
-              <i class='ti-lock'></i>
+            <div className='single-service'>
+              <i className='ti-lock'></i>
               <h4>Paiement</h4>
               <p>à la livraison</p>
             </div>
             {/* End Single Service */}
           </div>
-          <div class='col-lg-3 col-md-6 col-12'>
+          <div className='col-lg-3 col-md-6 col-12'>
             {/* Start Single Service */}
-            <div class='single-service'>
-              <i class='ti-tag'></i>
+            <div className='single-service'>
+              <i className='ti-tag'></i>
               <h4>Meilleurs Produits</h4>
               <p>Aux meilleurs prix</p>
             </div>

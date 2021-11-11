@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const HeaderInner = () => {
   return (
@@ -13,15 +14,15 @@ const HeaderInner = () => {
                 </h3>
                 <ul className='main-category'>
                   <li className='main-mega'>
-                    <a href='#'>
+                    <Link to='#'>
                       Meilleures Ventes{' '}
                       <i className='fa fa-angle-right' aria-hidden='true'></i>
-                    </a>
+                    </Link>
                     <ul className='mega-menu'>
                       <li className='single-menu'>
-                        <a href='#' className='title-link'>
+                        <Link to='#' className='title-link'>
                           Electroménager
-                        </a>
+                        </Link>
                         <div className='image'>
                           <img
                             src='https://via.placeholder.com/225x155'
@@ -29,16 +30,16 @@ const HeaderInner = () => {
                           />
                         </div>
                         <div className='inner-link'>
-                          <a href='#'>Fer à repasser</a>
-                          <a href='#'>Fer à repasser</a>
-                          <a href='#'>Fer à repasser</a>
-                          <a href='#'>Fer à repasser</a>
+                          <Link to='#'>Fer à repasser</Link>
+                          <Link to='#'>Fer à repasser</Link>
+                          <Link to='#'>Fer à repasser</Link>
+                          <Link to='#'>Fer à repasser</Link>
                         </div>
                       </li>
                       <li className='single-menu'>
-                        <a href='#' className='title-link'>
+                        <Link to='#' className='title-link'>
                           Ustensiles Cuisines
-                        </a>
+                        </Link>
                         <div className='image'>
                           <img
                             src='https://via.placeholder.com/225x155'
@@ -46,16 +47,16 @@ const HeaderInner = () => {
                           />
                         </div>
                         <div className='inner-link'>
-                          <a href='#'>Egoutoire</a>
-                          <a href='#'>Egoutoire</a>
-                          <a href='#'>Egoutoire</a>
-                          <a href='#'>Egoutoire</a>
+                          <Link to='#'>Egoutoire</Link>
+                          <Link to='#'>Egoutoire</Link>
+                          <Link to='#'>Egoutoire</Link>
+                          <Link to='#'>Egoutoire</Link>
                         </div>
                       </li>
                       <li className='single-menu'>
-                        <a href='#' className='title-link'>
+                        <Link to='#' className='title-link'>
                           Armoires
-                        </a>
+                        </Link>
                         <div className='image'>
                           <img
                             src='https://via.placeholder.com/225x155'
@@ -63,25 +64,25 @@ const HeaderInner = () => {
                           />
                         </div>
                         <div className='inner-link'>
-                          <a href='#'>Armoires</a>
-                          <a href='#'> Armoires</a>
-                          <a href='#'>Armoires</a>
-                          <a href='#'>Armoires</a>
+                          <Link to='#'>Armoires</Link>
+                          <Link to='#'> Armoires</Link>
+                          <Link to='#'>Armoires</Link>
+                          <Link to='#'>Armoires</Link>
                         </div>
                       </li>
                     </ul>
                   </li>
                   <li>
-                    <a href='#'>Electroménager</a>
+                    <Link to='#'>Electroménager</Link>
                   </li>
                   <li>
-                    <a href='#'>Ustensiles Cuisines</a>
+                    <Link to='#'>Ustensiles Cuisines</Link>
                   </li>
                   <li>
-                    <a href='#'>Armoires</a>
+                    <Link to='#'>Armoires</Link>
                   </li>
                   <li>
-                    <a href='#'>Range Chaussures</a>
+                    <Link to='#'>Range Chaussures</Link>
                   </li>
                 </ul>
               </div>
@@ -94,43 +95,43 @@ const HeaderInner = () => {
                     <div className='nav-inner'>
                       <ul className='nav main-menu menu navbar-nav'>
                         <li className='active'>
-                          <a href='#'>Accueil</a>
+                          <Link to='#'>Accueil</Link>
                         </li>
                         <li>
-                          <a href='#'>Produits</a>
+                          <Link to='#'>Produits</Link>
                         </li>
 
                         <li>
-                          <a href='#'>
+                          <Link to='#'>
                             Achat<i className='ti-angle-down'></i>
                             <span className='new'>New</span>
-                          </a>
+                          </Link>
                           <ul className='dropdown'>
                             <li>
-                              <a href='cart.html'>Panier</a>
+                              <Link to='cart.html'>Panier</Link>
                             </li>
                             <li>
-                              <a href='checkout.html'>Paiement</a>
+                              <Link to='checkout.html'>Paiement</Link>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href='#'>Pages</a>
+                          <Link to='#'>Pages</Link>
                         </li>
                         <li>
-                          <a href='#'>
+                          <Link to='#'>
                             Blog<i className='ti-angle-down'></i>
-                          </a>
+                          </Link>
                           <ul className='dropdown'>
                             <li>
-                              <a href='blog-single-sidebar.html'>
+                              <Link to='blog-single-sidebar.html'>
                                 Blog Single Sidebar
-                              </a>
+                              </Link>
                             </li>
                           </ul>
                         </li>
                         <li>
-                          <a href='contact.html'>Nous contacter</a>
+                          <Link to='contact.html'>Nous contacter</Link>
                         </li>
                       </ul>
                     </div>

@@ -1,46 +1,46 @@
 import React from 'react';
-
+import { Link } from 'react-router-dom';
 const MiddleInner = () => {
   return (
-    <div class='middle-inner'>
-      <div class='container'>
-        <div class='row'>
-          <div class='col-lg-2 col-md-2 col-12'>
+    <div className='middle-inner'>
+      <div className='container'>
+        <div className='row'>
+          <div className='col-lg-2 col-md-2 col-12'>
             {/* Logo */}
-            <div class='logo'>
-              <a href='/'>
+            <div className='logo'>
+              <Link to='/'>
                 <h5>Baana-Baana</h5>
-              </a>
+              </Link>
             </div>
             {/*/ End Logo */}
             {/* Search Form */}
-            <div class='search-top'>
-              <div class='top-search'>
-                <a href='#0'>
-                  <i class='ti-search'></i>
-                </a>
+            <div className='search-top'>
+              <div className='top-search'>
+                <Link to='#0'>
+                  <i className='ti-search'></i>
+                </Link>
               </div>
               {/* Search Form */}
-              <div class='search-top'>
-                <form class='search-form'>
+              <div className='search-top'>
+                <form className='search-form'>
                   <input
                     type='text'
                     placeholder='Search here...'
                     name='search'
                   />
                   <button value='search' type='submit'>
-                    <i class='ti-search'></i>
+                    <i className='ti-search'></i>
                   </button>
                 </form>
               </div>
               {/*/ End Search Form */}
             </div>
             {/*/ End Search Form */}
-            <div class='mobile-nav'></div>
+            <div className='mobile-nav'></div>
           </div>
-          <div class='col-lg-8 col-md-7 col-12'>
-            <div class='search-bar-top'>
-              <div class='search-bar'>
+          <div className='col-lg-8 col-md-7 col-12'>
+            <div className='search-bar-top'>
+              <div className='search-bar'>
                 <select>
                   <option selected='selected'>All Category</option>
                   <option>watch</option>
@@ -53,74 +53,75 @@ const MiddleInner = () => {
                     placeholder='Search Products Here.....'
                     type='search'
                   />
-                  <button class='btnn'>
-                    <i class='ti-search'></i>
+                  <button className='btnn'>
+                    <i className='ti-search'></i>
                   </button>
                 </form>
               </div>
             </div>
           </div>
-          <div class='col-lg-2 col-md-3 col-12'>
-            <div class='right-bar'>
+          <div className='col-lg-2 col-md-3 col-12'>
+            <div className='right-bar'>
               {/* Search Form */}
-              <div class='sinlge-bar'>
-                <a href='#' class='single-icon'>
-                  <i class='fa fa-heart-o' aria-hidden='true'></i>
-                </a>
+              <div className='sinlge-bar'>
+                <Link to='#' className='single-icon'>
+                  <i className='fa fa-heart-o' aria-hidden='true'></i>
+                </Link>
               </div>
-              <div class='sinlge-bar'>
-                <a href='#' class='single-icon'>
-                  <i class='fa fa-user-circle-o' aria-hidden='true'></i>
-                </a>
+              <div className='sinlge-bar'>
+                <Link to='#' className='single-icon'>
+                  <i className='fa fa-user-circle-o' aria-hidden='true'></i>
+                </Link>
               </div>
-              <div class='sinlge-bar shopping'>
-                <a href='#' class='single-icon'>
-                  <i class='ti-bag'></i> <span class='total-count'>2</span>
-                </a>
+              <div className='sinlge-bar shopping'>
+                <Link to='#' className='single-icon'>
+                  <i className='ti-bag'></i>{' '}
+                  <span className='total-count'>2</span>
+                </Link>
                 {/* Shopping Item */}
-                <div class='shopping-item'>
-                  <div class='dropdown-cart-header'>
+                <div className='shopping-item'>
+                  <div className='dropdown-cart-header'>
                     <span>2 Items</span>
-                    <a href='#'>View Cart</a>
+                    <Link to='#'>View Cart</Link>
                   </div>
-                  <ul class='shopping-list'>
+                  <ul className='shopping-list'>
                     <li>
-                      <a href='#' class='remove' title='Remove this item'>
-                        <i class='fa fa-remove'></i>
-                      </a>
-                      <a class='cart-img' href='#'>
+                      <Link to='#' className='remove' title='Remove this item'>
+                        <i className='fa fa-remove'></i>
+                      </Link>
+                      <Link className='cart-img' to='#'>
                         <img src='https://via.placeholder.com/70x70' alt='#' />
-                      </a>
+                      </Link>
                       <h4>
-                        <a href='#'>Woman Ring</a>
+                        <Link to='#'>Woman Ring</Link>
                       </h4>
-                      <p class='quantity'>
-                        1x - <span class='amount'>$99.00</span>
+                      <p className='quantity'>
+                        1x - <span className='amount'>$99.00</span>
                       </p>
                     </li>
                     <li>
-                      <a href='#' class='remove' title='Remove this item'>
-                        <i class='fa fa-remove'></i>
-                      </a>
-                      <a class='cart-img' href='#'>
+                      <Link to='#' className='remove' title='Remove this item'>
+                        <i className='fa fa-remove'></i>
+                      </Link>
+                      <Link className='cart-img' to='#'>
                         <img src='https://via.placeholder.com/70x70' alt='#' />
-                      </a>
+                      </Link>
                       <h4>
-                        <a href='#'>Woman Necklace</a>
+                        <Link to='#'>Woman Necklace</Link>
                       </h4>
-                      <p class='quantity'>
-                        1x - <span class='amount'>$35.00</span>
+                      <p className='quantity'>
+                        1x - <span className='amount'>$35.00</span>
                       </p>
                     </li>
                   </ul>
-                  <div class='bottom'>
-                    <div class='total'>
+                  <div className='bottom'>
+                    <div className='total'>
                       <span>Total</span>
-                      <span class='total-amount'>$134.00</span>
+                      <span className='total-amount'>$134.00</span>
                     </div>
-                    <a href='checkout.html' class='btn animate'>
+                    <Link to='checkout.html' className='btn animate'>
                       Checkout
-                    </a>
+                    </Link>
                   </div>
                 </div>
                 {/*/ End Shopping Item */}
