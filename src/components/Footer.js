@@ -23,7 +23,7 @@ const Footer = () => {
                 <p class='call'>
                   Vous avez une question? vous pouvez nous appeler 24/7
                   <span>
-                    <a href='tel:123456789'>+0123 456 789</a>
+                    <a href='tel:123456789'>+221781110455</a>
                   </span>
                 </p>
               </div>
@@ -86,7 +86,7 @@ const Footer = () => {
                 {/* End Single Widget */}
                 <ul>
                   <li>
-                    <a href='#'>
+                    <a href='https://web.facebook.com/Baana-Baana-110699808088557'>
                       <i class='fa fa-facebook'></i>
                     </a>
                   </li>

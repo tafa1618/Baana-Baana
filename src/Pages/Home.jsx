@@ -33,7 +33,7 @@ const Home = () => {
 				{/*<!-- Single Banner  -->*/}
 				<div className="col-lg-4 col-md-6 col-12">
 					<div className="single-banner">
-						<img src="https://icecube-eu-303.icedrive.io/download?p=_Gbftgi_XCZ82edlFIvfwQXbBjGxncLB25qi06S5sbt7KzCqdE0_RNt7Z.V_wGdSkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8lcgbcBF5EMTjdAEeCTiq912NU.ze8CSHkzlJLKLM1wjRZ.8kM5yhAqQlpFZbHZ5_lQq15x_Z6VaSn4gkf5wn2" alt="#" style={style}/>
+						<img src={imgElectro} alt="#" style={style}/>
 						<div className="content">
 							<p>Electoménagers</p>
 							
