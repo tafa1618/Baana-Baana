@@ -19,8 +19,8 @@ const Cuisine = () => {
 						<div className="single-product">
 							<div className="product-img">
 								<Link to="product-details.html">
-									<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFATsKIYowLoDDL_5hhlR7lkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.YxLilSEQyN_mKksf2wgb7.KzrimCm1PsW.nxQH_UkPk0H__Y9CYVaeoPmHtRU8R8Uf2E2qkeA2TXQvm_pqzRC" alt="#" />
-									<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFATsKIYowLoDDL_5hhlR7lkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.YxLilSEQyN_mKksf2wgb7.KzrimCm1PsW.nxQH_UkPk0H__Y9CYVaeoPmHtRU8R8Uf2E2qkeA2TXQvm_pqzRC" alt="#" />
+									<img className="default-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2021-04-10T141519.202.jpg?fit=680%2C680&ssl=1" alt="#" />
+									<img className="hover-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2021-04-10T141519.202.jpg?fit=680%2C680&ssl=1" alt="#" />
 									<span className="out-of-stock">Hot</span>
 								</Link>
 								<div className="button-head">
@@ -47,8 +47,8 @@ const Cuisine = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFQ3l8m8d62.FjtdetnoA6CkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8y3in6SD8yFvmrTuHzNatxMObInPFATRNv8eao8wvVbzq60bm8NjmAoYDyJ9CCwBXlQq15x_Z6VaSn4gkf5wn2" alt="#" />
-                                    <img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFQ3l8m8d62.FjtdetnoA6CkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8y3in6SD8yFvmrTuHzNatxMObInPFATRNv8eao8wvVbzq60bm8NjmAoYDyJ9CCwBXlQq15x_Z6VaSn4gkf5wn2" alt="#" />
+                                    <img className="default-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-95.jpg?fit=500%2C500&ssl=1" alt="#" />
+                                    <img className="hover-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-95.jpg?fit=500%2C500&ssl=1" alt="#" />
                                 </Link>
 								<div className="button-head">
 									<div className="product-action">
@@ -152,8 +152,8 @@ const Cuisine = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFLgRXOHt20OWU8DdpYg3pWkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_SUuyF.xMcE97B50BtSavK8VbUyFLzntmkx_JOuX2nA3ezSi5qgnKRdZjyLMsS.5ACp7wfZ54Wj3_IyUCSTMKH" alt="#" />
-                                    <img className="hover-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFLgRXOHt20OWU8DdpYg3pWkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_SUuyF.xMcE97B50BtSavK8VbUyFLzntmkx_JOuX2nA3ezSi5qgnKRdZjyLMsS.5ACp7wfZ54Wj3_IyUCSTMKH" alt="#" />
+                                    <img className="default-img"  src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-22.jpg?fit=500%2C500&ssl=1" alt="#" />
+                                    <img className="hover-img"  src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-22.jpg?fit=500%2C500&ssl=1" alt="#" />
                                 </Link>
 								<div className="button-head">
 									<div className="product-action">
@@ -177,8 +177,8 @@ const Cuisine = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jETt1r5W0k9WpmzMdqGvSmxkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_mwZVQtc2tySeny0groWHeiidezceJn3QJ6_GzrMWhhGMEAvtfe3MTaYG2kgpDwVVyY5kLW1mpXKQtbVO0o9a4" alt="#" />
-                                    <img className="hover-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jETt1r5W0k9WpmzMdqGvSmxkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_mwZVQtc2tySeny0groWHeiidezceJn3QJ6_GzrMWhhGMEAvtfe3MTaYG2kgpDwVVyY5kLW1mpXKQtbVO0o9a4" alt="#" />
+                                    <img className="default-img"  src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-88.jpg?fit=500%2C500&ssl=1" alt="#" />
+                                    <img className="hover-img"  src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-88.jpg?fit=500%2C500&ssl=1" alt="#" />
                                 </Link>
 								<div className="button-head">
 									<div className="product-action">
@@ -203,8 +203,8 @@ const Cuisine = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGbWFE35unMdrZ97cA1j.2OkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.ukTsRvb5m5udFHommE3igo8OnsBfOGAg7gjiDHSlgqBULAcOXfy.IoR.nfqWdh21TJfySzG55TFCpPqAKviUL" alt="#" />
-                                    <img className="hover-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGbWFE35unMdrZ97cA1j.2OkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.ukTsRvb5m5udFHommE3igo8OnsBfOGAg7gjiDHSlgqBULAcOXfy.IoR.nfqWdh21TJfySzG55TFCpPqAKviUL" alt="#" />
+                                    <img className="default-img"  src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/H23274442e9d948b59822eef92f5b5100I.jpg?fit=800%2C800&ssl=1" alt="#" />
+                                    <img className="hover-img"  src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/H23274442e9d948b59822eef92f5b5100I.jpg?fit=800%2C800&ssl=1" alt="#" />
                                 </Link>
 								<div className="button-head">
 									<div className="product-action">
