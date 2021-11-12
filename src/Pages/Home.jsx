@@ -8,10 +8,18 @@ import ShopServices from '../components/ShopServices';
 import imgElectro from "../products/electroménager/imgElectroménager/img1.jpg"
 import imgCuisine from "../products/cuisine/imgCuisine/img4.jpg"
 import imgArmoire from "../products/Armoires/imgArmoires/img5.jpg"
-import Products from './Products';
+
+
+import Electromenager from './Products'
+import Cuisine from './Cuisine'
+import Armoires from './Armoires'
+import RangeChaussures from './RangeChaussures'
+
+
 import Chics from "../Pages/Chics"
 import EnVogue from "../Pages/EnVogue"
 import {Link} from 'react-router-dom'
+
 
 
 const Home = () => {
@@ -71,7 +79,10 @@ const Home = () => {
 		</div>
 	</section>
   
-      <Products />
+      <Electromenager />
+			<Cuisine />
+			<Armoires />
+			<RangeChaussures /> 
       <Chics />
       <EnVogue />
       <ShopServices />

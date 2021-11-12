@@ -1,6 +1,6 @@
 import React from 'react'
 import {Link} from 'react-router-dom' 
-const Products = () => {
+const Electromenager = () => {
   return (
     <div className="product-area section">
             <div className="container">
@@ -17,10 +17,11 @@ const Products = () => {
 							<div className="nav-main">
 								{/*<!-- Tab Nav --> */}
 								<ul className="nav nav-tabs" id="myTab" role="tablist">
-									<li className="nav-item"><Link className="nav-link active" data-toggle="tab" to="#man" role="tab">Electoménagers</Link></li>
-									<li className="nav-item"><Link className="nav-link" data-toggle="tab" to="#women" role="tab">Cuisines</Link></li>
-									<li className="nav-item"><Link className="nav-link" data-toggle="tab" to="#kids" role="tab">Armoires</Link></li>
-									<li className="nav-item"><Link className="nav-link" data-toggle="tab" to="#accessories" role="tab">Range Chaussures</Link></li>
+									
+									<li className="nav-item"><a className="nav-link active" data-toggle="tab" href="#man" role="tab">Electoménagers</a></li>
+									<li className="nav-item"><a className="nav-link" data-toggle="tab" href="#women" role="tab">Cuisines</a></li>
+									<li className="nav-item"><a className="nav-link" data-toggle="tab" href="#kids" role="tab">Armoires</a></li>
+									<li className="nav-item"><a className="nav-link" data-toggle="tab" href="#accessories" role="tab">Range Chaussures</a></li>
 									
 								</ul>
 								{/*<!--/ End Tab Nav -->*/}
@@ -135,32 +136,7 @@ const Products = () => {
 													</div>
 												</div>
 											</div>
-											<div className="col-xl-3 col-lg-4 col-md-4 col-12">
-												<div className="single-product">
-													<div className="product-img">
-														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGsRcXyxdiCZilyLNqDoAL5kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_KyEg.dswD_5T1QdTyFLVM6Pu_6pTgj_Thu4.UWJx0j4HH_ZodGh8ZaZr26edRiXQACkaUmBqdsxzM7nPyznxN" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGsRcXyxdiCZilyLNqDoAL5kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_KyEg.dswD_5T1QdTyFLVM6Pu_6pTgj_Thu4.UWJx0j4HH_ZodGh8ZaZr26edRiXQACkaUmBqdsxzM7nPyznxN" alt="#" />
-														</Link>
-														<div className="button-head">
-															<div className="product-action">
-																<Link data-toggle="modal" data-target="#exampleModal" title="Quick View" to="#"><i className=" ti-eye"></i><span>Acheter</span></Link>
-																<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
-																
-															</div>
-															<div className="product-action-2">
-																<Link title="Add to cart" to="#">Ajouter Au panier</Link>
-															</div>
-														</div>
-													</div>
-													<div className="product-content">
-														<h3><Link to="product-details.html">Batteur Electrique avec Bol 2 Litres</Link></h3>
-														<div className="product-price">
-															<span>12900FCFA</span>
-														</div>
-													</div>
-												</div>
-											</div>
+										
 											<div className="col-xl-3 col-lg-4 col-md-4 col-12">
 												<div className="single-product">
 													<div className="product-img">
@@ -474,8 +450,8 @@ const Products = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYkLCeJKgR9bRIBx8G1AnY28kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8cgjxpONhddKcMfPC5nZ0AlEN6LRrxoae46GuyKUpGP7XlwcLPGOjx.L9z1JbLHLd1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxobo0LXpsHNSwEl_OO8kHSVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYkLCeJKgR9bRIBx8G1AnY28kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8cgjxpONhddKcMfPC5nZ0AlEN6LRrxoae46GuyKUpGP7XlwcLPGOjx.L9z1JbLHLd1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxobo0LXpsHNSwEl_OO8kHSVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTwLCeJKgR9bRIBx8G1AnY28kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8cgjxpONhddKcMfPC5nZ0AlEN6LRrxoae46GuyKUpGP7XlwcLPGOjx.L9z1JbLHLd1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxobo0LXpsHNSwEl_OO8kHSVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTwLCeJKgR9bRIBx8G1AnY28kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8cgjxpONhddKcMfPC5nZ0AlEN6LRrxoae46GuyKUpGP7XlwcLPGOjx.L9z1JbLHLd1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxobo0LXpsHNSwEl_OO8kHSVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -500,8 +476,8 @@ const Products = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYnHzsZamPObl18t2nSw1jAdkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS95xRe65oknep1EqZJpHMBccEw7XmGo3UpchBr6U8Pb_ZAV8QTnd9gfUUB.dYlslyl1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxqQIA5ROczP55jyKqif9VaVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYnHzsZamPObl18t2nSw1jAdkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS95xRe65oknep1EqZJpHMBccEw7XmGo3UpchBr6U8Pb_ZAV8QTnd9gfUUB.dYlslyl1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxqQIA5ROczP55jyKqif9VaVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTzHzsZamPObl18t2nSw1jAdkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS95xRe65oknep1EqZJpHMBccEw7XmGo3UpchBr6U8Pb_ZAV8QTnd9gfUUB.dYlslyl1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxqQIA5ROczP55jyKqif9VaVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTzHzsZamPObl18t2nSw1jAdkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS95xRe65oknep1EqZJpHMBccEw7XmGo3UpchBr6U8Pb_ZAV8QTnd9gfUUB.dYlslyl1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxqQIA5ROczP55jyKqif9VaVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -526,8 +502,8 @@ const Products = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYmVR62TkAPScBxSzlY7IA2UkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_B6iSIYWeg3SYnkHKS5sxRIM9GxLgN4UcJc1SdwsIq1lyRSR3LTkye.tIEf8MY32h1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau3FXOdGiqu1svZ8KBUGDdYqVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYmVR62TkAPScBxSzlY7IA2UkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_B6iSIYWeg3SYnkHKS5sxRIM9GxLgN4UcJc1SdwsIq1lyRSR3LTkye.tIEf8MY32h1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau3FXOdGiqu1svZ8KBUGDdYqVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTyVR62TkAPScBxSzlY7IA2UkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_B6iSIYWeg3SYnkHKS5sxRIM9GxLgN4UcJc1SdwsIq1lyRSR3LTkye.tIEf8MY32h1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau3FXOdGiqu1svZ8KBUGDdYqVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTyVR62TkAPScBxSzlY7IA2UkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_B6iSIYWeg3SYnkHKS5sxRIM9GxLgN4UcJc1SdwsIq1lyRSR3LTkye.tIEf8MY32h1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau3FXOdGiqu1svZ8KBUGDdYqVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -552,8 +528,8 @@ const Products = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYm7mTvKOF0kN642zaaFEbNgkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.M6ib2kTUZUbLF2ab3uHxIKc6gZMZQKtJpztrjYZRA3NiGsx7MwpOwI_0AGunAYR91tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau.6l05batBPSBsCy9V.qpoc-" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRFLT_PKHO3HkBwSWj6IBlYm7mTvKOF0kN642zaaFEbNgkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.M6ib2kTUZUbLF2ab3uHxIKc6gZMZQKtJpztrjYZRA3NiGsx7MwpOwI_0AGunAYR91tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau.6l05batBPSBsCy9V.qpoc-" alt="#" />
+															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTxr5BQyUiFpEXWXc9r2qlljkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8ENztNY774gDJN0pIXhKstzsMUHmOLN5ds.hhckeHoV4ln78OnV9QEIMX3EVHe8ih1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau2xk2TTL7nNbM73Ft_oQNeKVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTxr5BQyUiFpEXWXc9r2qlljkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8ENztNY774gDJN0pIXhKstzsMUHmOLN5ds.hhckeHoV4ln78OnV9QEIMX3EVHe8ih1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau2xk2TTL7nNbM73Ft_oQNeKVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
 															<span className="new">New</span>
 														</Link>
 														<div className="button-head">
@@ -864,4 +840,4 @@ const Products = () => {
   );
 };
 
-export default Products
+export default Electromenager

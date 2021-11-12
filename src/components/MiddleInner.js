@@ -76,7 +76,7 @@ const MiddleInner = () => {
               <div className='sinlge-bar shopping'>
                 <Link to='#' className='single-icon'>
                   <i className='ti-bag'></i>{' '}
-                  <span className='total-count'>2</span>
+                  <span className='total-count'>0</span>
                 </Link>
                 {/* Shopping Item */}
                 <div className='shopping-item'>
