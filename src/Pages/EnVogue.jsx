@@ -99,7 +99,7 @@ const EnVogue = () => {
 						<div className="row">
 							<div className="col-lg-6 col-md-6 col-12">
 								<div className="list-image overlay">
-									<img src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jHWg86BWYRwAABTVXvuAA0YkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8yPvmOQMrTfizulCxh0hja5uVEqao7OEPRvcvppzFYUVTWCm4m7gqtD3RFwH7dkFQACkaUmBqdsxzM7nPyznxN" alt="#" />
+									<img src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-87.jpg?fit=500%2C500&ssl=1" alt="#" />
 									<Link to="#" className="buy"><i className="fa fa-shopping-bag"></i></Link>
 								</div>
 							</div>
@@ -162,13 +162,13 @@ const EnVogue = () => {
 						<div className="row">
 							<div className="col-lg-6 col-md-6 col-12">
 								<div className="list-image overlay">
-									<img src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jEO2itw1WQ2Gf7fNjf2MsRskCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_5F.b50pg4MMIYZMaBICDDr17xajVmSmGbRXNo.JL36s5d2CbA1zxlp7E7xyJKyFQbH8dxoCBMDHEvsT39ODJ6" alt="#" />
+									<img src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-21.jpg?fit=500%2C500&ssl=1" alt="#" />
 									<Link to="#" className="buy"><i className="fa fa-shopping-bag"></i></Link>
 								</div>
 							</div>
 							<div className="col-lg-6 col-md-6 col-12 no-padding">
 								<div className="content">
-									<h5 className="title"><Link to="#">Portable Mixeur des Fruits rechargeable avec USB,Mini Blender – 380 ml – Bleu</Link></h5>
+									<h5 className="title"><Link to="#">Portable Mixeur de Fruits rechargeable avec USB,Mini Blender – 380 ml – Bleu</Link></h5>
 									<p className="price with-discount">10900FCFA</p>
 								</div>
 							</div>

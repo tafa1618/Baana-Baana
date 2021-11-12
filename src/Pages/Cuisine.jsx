@@ -73,8 +73,8 @@ const Cuisine = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFwgbVL_iu4qOI2G1T37l9hkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS9azKwkUKdQuAAZNE9z4OSMse9CMKiW_5lnPCjytYBhuVYURmXHp03qnrQy.TBuRG8ACkaUmBqdsxzM7nPyznxN" alt="#" />
-                                    <img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFwgbVL_iu4qOI2G1T37l9hkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS9azKwkUKdQuAAZNE9z4OSMse9CMKiW_5lnPCjytYBhuVYURmXHp03qnrQy.TBuRG8ACkaUmBqdsxzM7nPyznxN" alt="#" />
+                                    <img className="default-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2020-12-24T183651.297.jpg?fit=500%2C500&ssl=1" alt="#" />
+                                    <img className="hover-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2020-12-24T183651.297.jpg?fit=500%2C500&ssl=1" alt="#" />
 									<span className="new">New</span>
                                 </Link>
 								<div className="button-head">
@@ -100,7 +100,7 @@ const Cuisine = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGS7PcWGm4jUTV2XPyAPuY6kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.MNPY8GSBvUzDKKmA7dEkDx998ywBb8U0yDSd3zHXT0KdGDPc.NrJwzVlE5LZbsTgbH8dxoCBMDHEvsT39ODJ6" alt="#" />
+                                    <img className="default-img"  src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/41A4Buoc3BL.jpg?fit=500%2C314&ssl=1" alt="#" />
                                  
                                 </Link>
 								<div className="button-head">
@@ -122,32 +122,7 @@ const Cuisine = () => {
                             </div>
                         </div>
 						{/* End Single Product */}
-						{/* Start Single Product */}
-						<div className="single-product">
-                            <div className="product-img">
-                                <Link to="product-details.html">
-                                    <img className="default-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFBT46S4VvrjHJp_asYBk0.kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.FfRL78VxBrBBbzIrZKZKEIzfECnN68qIB.fvZPXE3SuYr5KxGwNBMtfGDh7.vAZVoVxo6kS4OJMzmmEJSdZkM" alt="#" />
-                                    <img className="hover-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFBT46S4VvrjHJp_asYBk0.kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.FfRL78VxBrBBbzIrZKZKEIzfECnN68qIB.fvZPXE3SuYr5KxGwNBMtfGDh7.vAZVoVxo6kS4OJMzmmEJSdZkM" alt="#" />
-                                </Link>
-								<div className="button-head">
-									<div className="product-action">
-									
-										<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
-										
-									</div>
-									<div className="product-action-2">
-										<Link title="Add to cart" to="#">Ajouter au panier</Link>
-									</div>
-								</div>
-                            </div>
-                            <div className="product-content">
-                                <h3><Link to="product-details.html">Presse Agrume Electrique</Link></h3>
-                                <div className="product-price">
-                                    <span>7900FCFA</span>
-                                </div>
-                            </div>
-                        </div>
-						{/* End Single Product */}
+						
 						{/* Start Single Product */}
 						<div className="single-product">
                             <div className="product-img">
