@@ -100,8 +100,8 @@ const Armoires = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img" src="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTxr5BQyUiFpEXWXc9r2qlljkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8ENztNY774gDJN0pIXhKstzsMUHmOLN5ds.hhckeHoV4ln78OnV9QEIMX3EVHe8ih1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau2xk2TTL7nNbM73Ft_oQNeKVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-                                    <img className="hover-img" src="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTxr5BQyUiFpEXWXc9r2qlljkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8ENztNY774gDJN0pIXhKstzsMUHmOLN5ds.hhckeHoV4ln78OnV9QEIMX3EVHe8ih1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau2xk2TTL7nNbM73Ft_oQNeKVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+                                    <img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTxr5BQyUiFpEXWXc9r2qlljkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8ENztNY774gDJN0pIXhKstzsMUHmOLN5ds.hhckeHoV4ln78OnV9QEIMX3EVHe8ih1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau2xk2TTL7nNbM73Ft_oQNeKVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+                                    
                                 </Link>
 								<div className="button-head">
 									<div className="product-action">

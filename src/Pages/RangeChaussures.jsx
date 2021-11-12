@@ -100,8 +100,8 @@ const RangeChaussures = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img" src="default-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-2-1.jpg?fit=500%2C500&ssl=1" alt="#" />
-                                    <img className="hover-img" src="default-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-2-1.jpg?fit=500%2C500&ssl=1" alt="#" />
+                                    <img className="default-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-2-1.jpg?fit=500%2C500&ssl=1" alt="#" />
+                                    
                                 </Link>
 								<div className="button-head">
 									<div className="product-action">

@@ -100,8 +100,8 @@ const Cuisine = () => {
 						<div className="single-product">
                             <div className="product-img">
                                 <Link to="product-details.html">
-                                    <img className="default-img" src="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGS7PcWGm4jUTV2XPyAPuY6kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.MNPY8GSBvUzDKKmA7dEkDx998ywBb8U0yDSd3zHXT0KdGDPc.NrJwzVlE5LZbsTgbH8dxoCBMDHEvsT39ODJ6" alt="#" />
-                                    <img className="hover-img" src="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGS7PcWGm4jUTV2XPyAPuY6kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.MNPY8GSBvUzDKKmA7dEkDx998ywBb8U0yDSd3zHXT0KdGDPc.NrJwzVlE5LZbsTgbH8dxoCBMDHEvsT39ODJ6" alt="#" />
+                                    <img className="default-img"  src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGS7PcWGm4jUTV2XPyAPuY6kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.MNPY8GSBvUzDKKmA7dEkDx998ywBb8U0yDSd3zHXT0KdGDPc.NrJwzVlE5LZbsTgbH8dxoCBMDHEvsT39ODJ6" alt="#" />
+                                 
                                 </Link>
 								<div className="button-head">
 									<div className="product-action">
