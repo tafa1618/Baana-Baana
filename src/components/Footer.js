@@ -22,7 +22,7 @@ const Footer = () => {
                   raison d'être
                 </p>
                 <p className='call'>
-                  Vous avez une question? vous pouvez nous appeler 24/7
+                  Vous avez une question? vous pouvez nous appeler 24h/24 7j/7
                   <span>
                     <Link to='tel:123456789'>+221781110455</Link>
                   </span>

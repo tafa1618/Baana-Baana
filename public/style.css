@@ -5016,3 +5016,20 @@ Version:1.0
 /*=============================
 	End Footer CSS
 ===============================*/
+/*===============================
+Adding whatssapp button
+===============================*/
+.whatsapp {
+    position: fixed;
+    right: 10px;
+    top: 52%;
+}
+.whatsapp i {
+    color: white;
+    background: #20b20f;
+    padding: 10px;
+    border-radius: 10px;
+}
+/*===============================
+End of whatssapp button
+===============================*/
