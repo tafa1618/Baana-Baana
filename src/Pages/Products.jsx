@@ -230,8 +230,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFATsKIYowLoDDL_5hhlR7lkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.YxLilSEQyN_mKksf2wgb7.KzrimCm1PsW.nxQH_UkPk0H__Y9CYVaeoPmHtRU8R8Uf2E2qkeA2TXQvm_pqzRC" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFATsKIYowLoDDL_5hhlR7lkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.YxLilSEQyN_mKksf2wgb7.KzrimCm1PsW.nxQH_UkPk0H__Y9CYVaeoPmHtRU8R8Uf2E2qkeA2TXQvm_pqzRC" alt="#" />
+															<img className="default-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2021-04-10T141519.202.jpg?fit=680%2C680&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2021-04-10T141519.202.jpg?fit=680%2C680&ssl=1" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -256,8 +256,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFQ3l8m8d62.FjtdetnoA6CkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8y3in6SD8yFvmrTuHzNatxMObInPFATRNv8eao8wvVbzq60bm8NjmAoYDyJ9CCwBXlQq15x_Z6VaSn4gkf5wn2" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFQ3l8m8d62.FjtdetnoA6CkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8y3in6SD8yFvmrTuHzNatxMObInPFATRNv8eao8wvVbzq60bm8NjmAoYDyJ9CCwBXlQq15x_Z6VaSn4gkf5wn2" alt="#" />
+															<img className="default-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-95.jpg?fit=500%2C500&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-95.jpg?fit=500%2C500&ssl=1" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -282,8 +282,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFwgbVL_iu4qOI2G1T37l9hkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS9azKwkUKdQuAAZNE9z4OSMse9CMKiW_5lnPCjytYBhuVYURmXHp03qnrQy.TBuRG8ACkaUmBqdsxzM7nPyznxN" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFwgbVL_iu4qOI2G1T37l9hkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS9azKwkUKdQuAAZNE9z4OSMse9CMKiW_5lnPCjytYBhuVYURmXHp03qnrQy.TBuRG8ACkaUmBqdsxzM7nPyznxN" alt="#" />
+															<img className="default-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2020-12-24T183651.297.jpg?fit=500%2C500&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2020-12-24T183651.297.jpg?fit=500%2C500&ssl=1" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -308,8 +308,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGS7PcWGm4jUTV2XPyAPuY6kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.MNPY8GSBvUzDKKmA7dEkDx998ywBb8U0yDSd3zHXT0KdGDPc.NrJwzVlE5LZbsTgbH8dxoCBMDHEvsT39ODJ6" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGS7PcWGm4jUTV2XPyAPuY6kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.MNPY8GSBvUzDKKmA7dEkDx998ywBb8U0yDSd3zHXT0KdGDPc.NrJwzVlE5LZbsTgbH8dxoCBMDHEvsT39ODJ6" alt="#" />
+															<img className="default-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/41A4Buoc3BL.jpg?fit=500%2C314&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/41A4Buoc3BL.jpg?fit=500%2C314&ssl=1" alt="#" />
 															<span className="new">New</span>
 														</Link>
 														<div className="button-head">
@@ -338,8 +338,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFLgRXOHt20OWU8DdpYg3pWkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_SUuyF.xMcE97B50BtSavK8VbUyFLzntmkx_JOuX2nA3ezSi5qgnKRdZjyLMsS.5ACp7wfZ54Wj3_IyUCSTMKH" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jFLgRXOHt20OWU8DdpYg3pWkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_SUuyF.xMcE97B50BtSavK8VbUyFLzntmkx_JOuX2nA3ezSi5qgnKRdZjyLMsS.5ACp7wfZ54Wj3_IyUCSTMKH" alt="#" />
+															<img className="default-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-22.jpg?fit=500%2C500&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/2-22.jpg?fit=500%2C500&ssl=1" alt="#" />
 															<span className="price-dec">30% Off</span>
 														</Link>
 														<div className="button-head">
@@ -391,8 +391,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGbWFE35unMdrZ97cA1j.2OkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.ukTsRvb5m5udFHommE3igo8OnsBfOGAg7gjiDHSlgqBULAcOXfy.IoR.nfqWdh21TJfySzG55TFCpPqAKviUL" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-304.icedrive.io/download?p=rXK3pkwWG19L84aDC2_uRDWZPHFsIS76rqKgjpB81jGbWFE35unMdrZ97cA1j.2OkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS.ukTsRvb5m5udFHommE3igo8OnsBfOGAg7gjiDHSlgqBULAcOXfy.IoR.nfqWdh21TJfySzG55TFCpPqAKviUL" alt="#" />
+															<img className="default-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/H23274442e9d948b59822eef92f5b5100I.jpg?fit=800%2C800&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/H23274442e9d948b59822eef92f5b5100I.jpg?fit=800%2C800&ssl=1" alt="#" />
 															<span className="out-of-stock">Hot</span>
 														</Link>
 														<div className="button-head">
@@ -427,8 +427,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTwLCeJKgR9bRIBx8G1AnY28kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8cgjxpONhddKcMfPC5nZ0AlEN6LRrxoae46GuyKUpGP7XlwcLPGOjx.L9z1JbLHLd1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxobo0LXpsHNSwEl_OO8kHSVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTwLCeJKgR9bRIBx8G1AnY28kCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8cgjxpONhddKcMfPC5nZ0AlEN6LRrxoae46GuyKUpGP7XlwcLPGOjx.L9z1JbLHLd1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxobo0LXpsHNSwEl_OO8kHSVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="default-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/8f2bcea9-6d7c-4753-8555-c21239385920.jpg?fit=1440%2C1080&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i2.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/8f2bcea9-6d7c-4753-8555-c21239385920.jpg?fit=1440%2C1080&ssl=1" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -444,7 +444,7 @@ const Electromenager = () => {
 													<div className="product-content">
 														<h3><Link to="product-details.html">Armoire à deux battants </Link></h3>
 														<div className="product-price">
-															<span>30000FCFA</span>
+															<span>45000FCFA</span>
 														</div>
 													</div>
 												</div>
@@ -453,8 +453,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTzHzsZamPObl18t2nSw1jAdkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS95xRe65oknep1EqZJpHMBccEw7XmGo3UpchBr6U8Pb_ZAV8QTnd9gfUUB.dYlslyl1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxqQIA5ROczP55jyKqif9VaVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTzHzsZamPObl18t2nSw1jAdkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS95xRe65oknep1EqZJpHMBccEw7XmGo3UpchBr6U8Pb_ZAV8QTnd9gfUUB.dYlslyl1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pauxqQIA5ROczP55jyKqif9VaVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="default-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/HTB1pGUDKVXXXXamXXXXq6xXFXXX8.jpg_q50.jpg?fit=622%2C722&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/HTB1pGUDKVXXXXamXXXXq6xXFXXX8.jpg_q50.jpg?fit=622%2C722&ssl=1" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -468,9 +468,9 @@ const Electromenager = () => {
 														</div>
 													</div>
 													<div className="product-content">
-														<h3><Link to="product-details.html">armoire 2 battants avec range chaussure</Link></h3>
+														<h3><Link to="product-details.html">Armoire de rangement Plastique 4 Battants</Link></h3>
 														<div className="product-price">
-															<span>22000FCFA</span>
+															<span>45000FCFA</span>
 														</div>
 													</div>
 												</div>
@@ -479,8 +479,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTyVR62TkAPScBxSzlY7IA2UkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_B6iSIYWeg3SYnkHKS5sxRIM9GxLgN4UcJc1SdwsIq1lyRSR3LTkye.tIEf8MY32h1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau3FXOdGiqu1svZ8KBUGDdYqVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTyVR62TkAPScBxSzlY7IA2UkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS_B6iSIYWeg3SYnkHKS5sxRIM9GxLgN4UcJc1SdwsIq1lyRSR3LTkye.tIEf8MY32h1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau3FXOdGiqu1svZ8KBUGDdYqVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="default-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/10/d9a699e0-e643-42b0-8db0-1d1413035584.jpg?fit=540%2C540&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i0.wp.com/www.mondialevaise.com/wp-content/uploads/2021/10/d9a699e0-e643-42b0-8db0-1d1413035584.jpg?fit=540%2C540&ssl=1" alt="#" />
 														</Link>
 														<div className="button-head">
 															<div className="product-action">
@@ -494,9 +494,9 @@ const Electromenager = () => {
 														</div>
 													</div>
 													<div className="product-content">
-														<h3><Link to="product-details.html">armoire 1 battant avec range chaussure</Link></h3>
+														<h3><Link to="product-details.html">armoire 4 battants noir blanc avec double range chaussure</Link></h3>
 														<div className="product-price">
-															<span>30000FCFA</span>
+															<span>50000FCFA</span>
 														</div>
 													</div>
 												</div>
@@ -505,8 +505,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTxr5BQyUiFpEXWXc9r2qlljkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8ENztNY774gDJN0pIXhKstzsMUHmOLN5ds.hhckeHoV4ln78OnV9QEIMX3EVHe8ih1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau2xk2TTL7nNbM73Ft_oQNeKVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
-															<img className="hover-img" src="https://icecube-eu-403.icedrive.io/download?p=KQWyQdct4H8PAFUA8SJpmwRCvn2FBuZnd0UJcbJqFTxr5BQyUiFpEXWXc9r2qlljkCWLft9PGR0jD4VDb0Fjvi8CMFaiagNUfN0SG_nFfS8ENztNY774gDJN0pIXhKstzsMUHmOLN5ds.hhckeHoV4ln78OnV9QEIMX3EVHe8ih1tKRq99qUEq2rWlG8uNq3xo1tQrzaOIebCdtoL9pau2xk2TTL7nNbM73Ft_oQNeKVJM9Zr6TawsKGiuEJ8w4b" alt="#" />
+															<img className="default-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/3.jpg?fit=500%2C500&ssl=1" alt="#" />
+															<img className="hover-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/3.jpg?fit=500%2C500&ssl=1" alt="#" />
 															<span className="new">New</span>
 														</Link>
 														<div className="button-head">
@@ -521,9 +521,9 @@ const Electromenager = () => {
 														</div>
 													</div>
 													<div className="product-content">
-														<h3><Link to="product-details.html">Armoire 2 battant avec range chaussures</Link></h3>
+														<h3><Link to="product-details.html">Armoire de rangement Plastique 4 Battants</Link></h3>
 														<div className="product-price">
-															<span>30000FCFA</span>
+															<span>45000FCFA</span>
 														</div>
 													</div>
 												</div>
