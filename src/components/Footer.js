@@ -87,9 +87,9 @@ const Footer = () => {
                 {/* End Single Widget */}
                 <ul>
                   <li>
-                    <Link to='https://web.facebook.com/Baana-Baana-110699808088557'>
+                    <a href='https://web.facebook.com/Baana-Baana-110699808088557'>
                       <i className='fa fa-facebook'></i>
-                    </Link>
+                    </a>
                   </li>
                   <li>
                     <Link to='#'>

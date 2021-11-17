@@ -19,6 +19,7 @@ import RangeChaussures from './RangeChaussures'
 import Chics from "../Pages/Chics"
 import EnVogue from "../Pages/EnVogue"
 import {Link} from 'react-router-dom'
+import Bambinos from './Bambinos';
 
 
 
@@ -83,6 +84,7 @@ const Home = () => {
 			<Cuisine />
 			<Armoires />
 			<RangeChaussures /> 
+			<Bambinos />
       <Chics />
       <EnVogue />
       <ShopServices />
