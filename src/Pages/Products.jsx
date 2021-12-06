@@ -1,6 +1,7 @@
 import React from 'react'
 import {Link} from 'react-router-dom' 
 const Electromenager = () => {
+	
   return (
     <div className="product-area section">
             <div className="container">

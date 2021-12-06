@@ -250,7 +250,7 @@ const Bambinos = () => {
                             <div className="product-content">
                                 <h3><Link to="product-details.html">Kangourou marque Chicco</Link></h3>
                                 <div className="product-price">
-                                    <span>15000FCFA</span>
+                                    <span>17000FCFA</span>
                                 </div>
                             </div>
                         </div>
