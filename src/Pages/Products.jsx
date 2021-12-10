@@ -105,7 +105,7 @@ const Electromenager = () => {
 													<div className="product-content">
 														<h3><Link to="product-details.html">Pompe à Eau Electrique</Link></h3>
 														<div className="product-price">
-															<span>11500FCFA</span>
+															<span>6900FCFA</span>
 														</div>
 													</div>
 												</div>
@@ -274,7 +274,7 @@ const Electromenager = () => {
 													<div className="product-content">
 														<h3><Link to="product-details.html">6 Tasse Petit Déjeuner en Verre – 35 ml</Link></h3>
 														<div className="product-price">
-															<span>9000FCFA</span>
+															<span>4500FCFA</span>
 														</div>
 													</div>
 												</div>
