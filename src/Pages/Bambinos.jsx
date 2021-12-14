@@ -797,7 +797,7 @@ const Bambinos = () => {
                             <div className="product-content">
                                 <h3><Link to="product-details.html">Youpla </Link></h3>
                                 <div className="product-price">
-                                    <span>32500FCFA</span>
+                                    <span>35000FCFA</span>
                                 </div>
                             </div>
                         </div>
@@ -847,7 +847,111 @@ const Bambinos = () => {
 								</div>
                             </div>
                             <div className="product-content">
-                                <h3><Link to="product-details.html">Youpla </Link></h3>
+                                <h3><Link to="product-details.html">Trottineur avec piano à jouets </Link></h3>
+                                <div className="product-price">
+                                    <span>70000FCFA</span>
+                                </div>
+                            </div>
+                        </div>
+						{/* End Single Product */}
+                        {/* Start Single Product */}
+						<div className="single-product">
+                            <div className="product-img">
+                                <Link to="product-details.html">
+                                    <img className="default-img"  src="https://i.ibb.co/MRpsgsN/Marcheur-1-4.jpg" alt="#" />
+                                    <img className="hover-img"  src="https://i.ibb.co/MRpsgsN/Marcheur-1-4.jpg" alt="#" />
+                                </Link>
+								<div className="button-head">
+									<div className="product-action">
+									
+										<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
+										
+									</div>
+									<div className="product-action-2">
+										<Link title="Add to cart" to="#">Ajouter au panier</Link>
+									</div>
+								</div>
+                            </div>
+                            <div className="product-content">
+                                <h3><Link to="product-details.html">Trottineur avec piano à jouets </Link></h3>
+                                <div className="product-price">
+                                    <span>70000FCFA</span>
+                                </div>
+                            </div>
+                        </div>
+						{/* End Single Product */}
+                         {/* Start Single Product */}
+						<div className="single-product">
+                            <div className="product-img">
+                                <Link to="product-details.html">
+                                    <img className="default-img"  src="https://i.ibb.co/qdfwxjL/Marcheur-1-5.jpg" alt="#" />
+                                    <img className="hover-img"  src="https://i.ibb.co/qdfwxjL/Marcheur-1-5.jpg" alt="#" />
+                                </Link>
+								<div className="button-head">
+									<div className="product-action">
+									
+										<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
+										
+									</div>
+									<div className="product-action-2">
+										<Link title="Add to cart" to="#">Ajouter au panier</Link>
+									</div>
+								</div>
+                            </div>
+                            <div className="product-content">
+                                <h3><Link to="product-details.html">Trottineur avec piano à jouets </Link></h3>
+                                <div className="product-price">
+                                    <span>70000FCFA</span>
+                                </div>
+                            </div>
+                        </div>
+						{/* End Single Product */}
+                         {/* Start Single Product */}
+						<div className="single-product">
+                            <div className="product-img">
+                                <Link to="product-details.html">
+                                    <img className="default-img"  src="https://i.ibb.co/qkfZPCx/Marcheur-1-3.jpg" alt="#" />
+                                    <img className="hover-img"  src="https://i.ibb.co/qkfZPCx/Marcheur-1-3.jpg" alt="#" />
+                                </Link>
+								<div className="button-head">
+									<div className="product-action">
+									
+										<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
+										
+									</div>
+									<div className="product-action-2">
+										<Link title="Add to cart" to="#">Ajouter au panier</Link>
+									</div>
+								</div>
+                            </div>
+                            <div className="product-content">
+                                <h3><Link to="product-details.html">Trottineur avec piano à jouets </Link></h3>
+                                <div className="product-price">
+                                    <span>70000FCFA</span>
+                                </div>
+                            </div>
+                        </div>
+						{/* End Single Product */}
+                         {/* Start Single Product */}
+						<div className="single-product">
+                            <div className="product-img">
+                                <Link to="product-details.html">
+                                    <img className="default-img"  src="https://i.ibb.co/QfskZyq/Marcheur-1-2.jpg" alt="#" />
+                                    <img className="hover-img"  src="https://i.ibb.co/QfskZyq/Marcheur-1-2.jpg" alt="#" />
+                                </Link>
+								<div className="button-head">
+									<div className="product-action">
+									
+										<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
+										
+									</div>
+									<div className="product-action-2">
+										<Link title="Add to cart" to="#">Ajouter au panier</Link>
+									</div>
+								</div>
+                            </div>
+                            <div className="product-content">
+                                <h3><Link to="product-details.html">Trottineur avec piano à jouets </Link></h3>
                                 <div className="product-price">
                                     <span>70000FCFA</span>
                                 </div>
