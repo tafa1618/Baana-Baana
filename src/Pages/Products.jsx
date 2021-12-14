@@ -79,7 +79,7 @@ const Electromenager = () => {
 													<div className="product-content">
 														<h3><Link to="product-details.html">Hachoir Electrique – Viande et Légumes</Link></h3>
 														<div className="product-price">
-															<span>8900FCFA</span>
+															<span>7000FCFA</span>
 														</div>
 													</div>
 												</div>
