@@ -37,8 +37,8 @@ const Bambinos = () => {
 							<div className="product-content">
 								<h3><Link to="product-details.html">Youpla</Link></h3>
 								<div className="product-price">
-									<span className="old">35000FCFA</span>
-									<span>32500FCFA </span>
+									<span className="old">37000FCFA</span>
+									<span>35000FCFA </span>
 								</div>
 							</div>
 						</div>
@@ -94,7 +94,7 @@ const Bambinos = () => {
                             <div className="product-content">
                                 <h3><Link to="product-details.html">Youpla</Link></h3>
                                 <div className="product-price">
-                                    <span>32500FCFA</span>
+                                    <span>35000FCFA</span>
                                 </div>
                             </div>
                         </div>
