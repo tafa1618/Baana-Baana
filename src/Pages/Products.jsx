@@ -114,8 +114,8 @@ const Electromenager = () => {
 												<div className="single-product">
 													<div className="product-img">
 														<Link to="product-details.html">
-															<img className="default-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2020-12-24T182540.648.jpg?fit=500%2C500&ssl=1" alt="#" />
-															<img className="hover-img" src="https://i1.wp.com/www.mondialevaise.com/wp-content/uploads/2021/06/1-2020-12-24T182540.648.jpg?fit=500%2C500&ssl=1" alt="#" />
+															<img className="default-img" src="https://i.ibb.co/JtFf7pY/fer29000.jpg" alt="#" />
+															<img className="hover-img" src="https://i.ibb.co/JtFf7pY/fer29000.jpg" alt="#" />
 															<span className="new">New</span>
 														</Link>
 														<div className="button-head">
@@ -132,11 +132,68 @@ const Electromenager = () => {
 													<div className="product-content">
 														<h3><Link to="product-details.html">Fer à Repasser à Vapeur</Link></h3>
 														<div className="product-price">
-															<span>11500FCFA</span>
+															<span>29000FCFA</span>
 														</div>
 													</div>
 												</div>
 											</div>
+											<div className="col-xl-3 col-lg-4 col-md-4 col-12">
+												<div className="single-product">
+													<div className="product-img">
+														<Link to="product-details.html">
+															<img className="default-img"src="https://i.ibb.co/n6WgXs9/fer11900.jpg" alt="#" />
+															<img className="hover-img" src="https://i.ibb.co/n6WgXs9/fer11900.jpg" alt="#" />
+															<span className="new">New</span>
+														</Link>
+														<div className="button-head">
+															<div className="product-action">
+																<Link data-toggle="modal" data-target="#exampleModal" title="Quick View" to="#"><i className=" ti-eye"></i><span>Acheter</span></Link>
+																<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
+																
+															</div>
+															<div className="product-action-2">
+																<Link title="Add to cart" to="#">Ajouter Au panier</Link>
+															</div>
+														</div>
+													</div>
+													<div className="product-content">
+														<h3><Link to="product-details.html">Fer à Repasser à Vapeur</Link></h3>
+														<div className="product-price">
+															<span>12000FCFA</span>
+														</div>
+													</div>
+												</div>
+											</div>
+
+											<div className="col-xl-3 col-lg-4 col-md-4 col-12">
+												<div className="single-product">
+													<div className="product-img">
+														<Link to="product-details.html">
+															<img className="default-img" src="https://i.ibb.co/V9yW6h4/fer15000.jpg" alt="#" />
+															<img className="hover-img" src="https://i.ibb.co/V9yW6h4/fer15000.jpg" alt="#" />
+															<span className="price-dec">30% Off</span>
+														</Link>
+														<div className="button-head">
+															<div className="product-action">
+																<Link data-toggle="modal" data-target="#exampleModal" title="Quick View" to="#"><i className=" ti-eye"></i><span>Acheter</span></Link>
+																<Link title="Wishlist" to="#"><i className=" ti-heart "></i><span>Pour plus tard</span></Link>
+																
+															</div>
+															<div className="product-action-2">
+																<Link title="Add to cart" to="#">Ajouter Au panier</Link>
+															</div>
+														</div>
+													</div>
+													<div className="product-content">
+														<h3><Link to="product-details.html">Fer à repasser</Link></h3>
+														<div className="product-price">
+															<span>15000FCFA</span>
+														</div>
+													</div>
+												</div>
+											</div>
+
+											
 										
 											<div className="col-xl-3 col-lg-4 col-md-4 col-12">
 												<div className="single-product">
