@@ -1,5 +1,6 @@
 export const Electromenager = [
   {
+    id: 1,
     name: 'Le batteur Electrique',
     image: '../products/imagElectroménager/1.jpg',
     description:
@@ -9,6 +10,7 @@ export const Electromenager = [
     price: 7900,
   },
   {
+    id: 2,
     name: 'Hachoir Electrique – Viande et Légumes -( multicolores',
     image: '../products/imagElectroménager/2.jpg',
     description:
@@ -18,6 +20,7 @@ export const Electromenager = [
     price: 8900,
   },
   {
+    id: 3,
     name: 'Pompe à Eau Electrique – Sans fil – USB rechargeable',
     image: '../products/imagElectroménager/3.jpg',
     description:
@@ -27,6 +30,7 @@ export const Electromenager = [
     price: 11500,
   },
   {
+    id: 4,
     name: 'Fer à Repasser à Vapeur',
     image: '../products/imagElectroménager/4.jpg',
     description:
@@ -36,6 +40,7 @@ export const Electromenager = [
     price: 11500,
   },
   {
+    id: 5,
     name: 'Batteur Electrique avec Bol 2 Litres 250 W – 7 Vitesses',
     image: '../products/imagElectroménager/5.jpg',
     description:
@@ -45,6 +50,7 @@ export const Electromenager = [
     price: 12900,
   },
   {
+    id: 6,
     name: '4 en 1 à Panini et Croque-monsieur en Acier Inoxydable, 750W, Noir',
     image: '../products/imagElectroménager/6.jpg',
     description:
@@ -54,6 +60,7 @@ export const Electromenager = [
     price: 16900,
   },
   {
+    id: 7,
     name: 'Generic Blender Mixeur Presse Agrumes Multifonctions – Acier Inoxydable 1000W',
     image: '../products/imagElectroménager/7.jpg',
     description:
@@ -63,6 +70,7 @@ export const Electromenager = [
     price: 47000,
   },
   {
+    id: 8,
     name: 'Thermos 1.9 Litre – Inox',
     image: '../products/imagElectroménager/8.jpg',
     description: '',
@@ -74,6 +82,7 @@ export const Electromenager = [
 
 export const Cuisine = [
   {
+    id: 1,
     name: 'pack de 13 spatules',
     image: './imgCuisine/1.jpg',
     description:
@@ -83,6 +92,7 @@ export const Cuisine = [
     price: 9900,
   },
   {
+    id: 2,
     name: 'Blender Mixeur – 1.5L. 800W',
     image: './imgCuisine/2.jpg',
     description:
@@ -92,6 +102,7 @@ export const Cuisine = [
     price: 25000,
   },
   {
+    id: 3,
     name: 'Égouttoir vaisselle 2 couches en acier inoxydable',
     image: './imgCuisine/3.jpg',
     description:
@@ -101,6 +112,7 @@ export const Cuisine = [
     price: 7900,
   },
   {
+    id: 4,
     name: 'Presse Agrume Electrique Professionnel Inox 85 W',
     image: './imgCuisine/4.jpg',
     description:
@@ -109,6 +121,7 @@ export const Cuisine = [
     price: 7900,
   },
   {
+    id: 5,
     name: '3 pièces Théière en Aluminium – 1 Litres,700ml et 500ml',
     image: './imgCuisine/5.jpg',
     description:
@@ -117,6 +130,7 @@ export const Cuisine = [
     price: 9000,
   },
   {
+    id: 6,
     name: '6 Tasse Petit Déjeuner en Verre – 35 ml',
     image: './imgCuisine/6.jpg',
     description: '',
@@ -124,6 +138,7 @@ export const Cuisine = [
     price: 9000,
   },
   {
+    id: 7,
     name: 'Couscoussier italia en inox 6 litres',
     image: './imgCuisine/7.jpg',
     description:
@@ -132,6 +147,7 @@ export const Cuisine = [
     price: 12000,
   },
   {
+    id: 8,
     name: 'Poêle Antiadhésif 28 cm',
     image: './imgCuisine/8.jpg',
     description: 'Poêle Antiadhésif 28 cm noir Acier inoxydable',
@@ -142,6 +158,7 @@ export const Cuisine = [
 
 export const Armoire = [
   {
+    id: 1,
     name: 'Stockage en Plastique 8-Porte 2 Étagères Gitter Chambre Maison marron 75X47X165CM penderie ',
     image: './imgArmoires/1.jpg',
     description:
@@ -150,6 +167,7 @@ export const Armoire = [
     price: 30000,
   },
   {
+    id: 2,
     name: 'armoire 4battants rouge',
     image: './imgArmoires/2.jpg',
     description:
@@ -158,6 +176,7 @@ export const Armoire = [
     price: 22000,
   },
   {
+    id: 3,
     name: 'Armoire de rangement Plastique 4 Battants ',
     image: './imgArmoires/3.jpg',
     description:
@@ -166,6 +185,7 @@ export const Armoire = [
     price: 45000,
   },
   {
+    id: 4,
     name: 'Armoire de rangement Plastique 4 Battants ',
     image: './imgArmoires/4.jpg',
     description:
@@ -173,6 +193,7 @@ export const Armoire = [
     price: 45000,
   },
   {
+    id: 5,
     name: 'Armoire Etagère Modulable – 09 Cubes marron ',
     image: './imgArmoires/5.jpg',
     description:
@@ -180,6 +201,7 @@ export const Armoire = [
     price: 28000,
   },
   {
+    id: 6,
     name: 'Stockage en Plastique 8-Porte 2 Étagères Gitter Chambre Maison marron 75X47X165CM penderie ',
     image: './imgArmoires/6.jpg',
     description:
@@ -187,6 +209,7 @@ export const Armoire = [
     price: 30000,
   },
   {
+    id: 7,
     name: 'Armoire Penderie – 3Battants',
     image: './imgArmoires/7.jpg',
     description:
@@ -194,6 +217,7 @@ export const Armoire = [
     price: 14900,
   },
   {
+    id: 8,
     name: 'Armoire Etagère Modulable – 12 Cubes',
     image: './imgArmoires/8.jpg',
     description: 'Armoire Etagère Modulable – 12 Cubes 165cm/111cm/47cm',
@@ -203,6 +227,7 @@ export const Armoire = [
 
 export const rangeChaussures = [
   {
+    id: 1,
     name: 'Armoire A Chaussures 27 Paires / Couleur Rouge Bordeau',
     image: './imgArmoiresAchaussures/1.jpg',
     description:
@@ -211,6 +236,7 @@ export const rangeChaussures = [
     price: 11900,
   },
   {
+    id: 2,
     name: 'Armoire de Rangement de Chaussures – 36 Paires – Marron',
     image: './imgArmoiresAchaussures/2.jpg',
     description:
@@ -219,18 +245,21 @@ export const rangeChaussures = [
     price: 12900,
   },
   {
+    id: 3,
     name: 'Rangement chaussure 48 paires',
     image: './imgArmoiresAchaussures/3.jpg',
     description: '',
     price: 37000,
   },
   {
+    id: 4,
     name: 'Étagère de rangement de chaussure et décoration 4 étages en Bois',
     image: './imgArmoiresAchaussures/4.jpg',
     description: '',
     price: 13900,
   },
   {
+    id: 5,
     name: 'Armoire Etagère à Chaussures Modulable – DIY 6 Cubes en 2',
     image: './imgArmoiresAchaussures/5.jpg',
     description:
@@ -238,6 +267,7 @@ export const rangeChaussures = [
     price: 20000,
   },
   {
+    id: 6,
     name: 'Armoire de Rangement de Chaussures – 36 Paires – Rouge Bordeaux',
     image: './imgArmoiresAchaussures/6.jpg',
     description:
@@ -245,12 +275,14 @@ export const rangeChaussures = [
     price: 13900,
   },
   {
+    id: 7,
     name: 'range chaussure 24 paires',
     image: './imgArmoiresAchaussures/7.jpeg',
     description: 'range chaussure 24 paires',
     price: 24000,
   },
   {
+    id: 8,
     name: 'Meerveil Armoire à Chaussures Meuble de Rangement pour 24 Paires de Chaussures 12 Cube Etagère à Chaussures Etagère de Rangement en Plastique 91 * 36 * 105cm',
     image: './imgArmoiresAchaussures/8.jpg',
     description:
@@ -260,6 +292,7 @@ export const rangeChaussures = [
 ];
 export const chicProducts = [
   {
+    id: 1,
     name: 'chaise enfant',
     image: './imgProduitsChics/1.jpg',
     description: '',
@@ -267,6 +300,7 @@ export const chicProducts = [
   },
 
   {
+    id: 2,
     name: 'Moule à gâteau 3 formes 24/26/28 cm',
     image: './imgProduitsChics/2.jpg',
     description:
@@ -274,6 +308,7 @@ export const chicProducts = [
     price: 5500,
   },
   {
+    id: 3,
     name: 'Nier Dicer Quick 5 en 1',
     image: './imgProduitsChics/3.jpg',
     description:
@@ -281,6 +316,7 @@ export const chicProducts = [
     price: 2900,
   },
   {
+    id: 4,
     name: 'SPATULE Lot de 6 Ustensiles de Cuisine – 1 louche, 1 écumoire, 1 spatule, 2 cuillères percées, 1 spatule à spaghetti – Noir',
     image: './imgProduitsChics/4.jpg',
     description: '',
@@ -290,6 +326,7 @@ export const chicProducts = [
 
 export const enVogue = [
   {
+    id: 1,
     name: 'Égouttoir pour Vaisselles en Plastique de 2 Compartiments – Marron Beige',
     image: './imgEnVogue/1.jpg',
     description:
@@ -298,6 +335,7 @@ export const enVogue = [
     price: 5500,
   },
   {
+    id: 2,
     name: 'Étagère de salle de bain en métal, support d’angle pour Machine à laver de cuisine sans poinçon',
     image: './imgEnVogue/2.jpg',
     description:
@@ -306,6 +344,7 @@ export const enVogue = [
     price: 12900,
   },
   {
+    id: 3,
     name: 'Support de Range cuisine',
     image: './imgEnVogue/3.jpg',
     description:
@@ -314,6 +353,7 @@ export const enVogue = [
     price: 38900,
   },
   {
+    id: 4,
     name: 'Égouttoir Vaisselle Inox',
     image: './imgEnVogue/4.jpg',
     description:
@@ -322,6 +362,7 @@ export const enVogue = [
     price: 16900,
   },
   {
+    id: 5,
     name: 'Egouttoir vaisselle',
     image: './imgEnVogue/5.jpg',
     description:
@@ -330,6 +371,7 @@ export const enVogue = [
     price: 7900,
   },
   {
+    id: 6,
     name: 'Sèche-Linge – Pliable – Blanc',
     image: './imgEnVogue/6.jpg',
     description: 'Sèche-Linge – Pliable – Blanc',
@@ -337,6 +379,7 @@ export const enVogue = [
     price: 14000,
   },
   {
+    id: 7,
     name: 'Mug Isotherme Portable + Thermos à Chaud 24h + Bouilloire Électrique 2 L',
     image: './imgEnVogue/7.jpg',
     description:
@@ -345,6 +388,7 @@ export const enVogue = [
     price: 10900,
   },
   {
+    id: 8,
     name: 'Portable Mixeur des Fruits rechargeable avec USB,Mini Blender – 380 ml – Bleu',
     image: './imgEnVogue/8.jpg',
     description:
@@ -353,6 +397,7 @@ export const enVogue = [
     price: 10900,
   },
   {
+    id: 9,
     name: 'Batteur électrique',
     image: './imgEnVogue/9.jpg',
     description:
